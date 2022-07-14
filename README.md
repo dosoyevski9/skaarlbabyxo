@@ -72,11 +72,11 @@ ____
 
 
 
-<h3 align="center"> Other Accounts 📫 </h3>
+<h3 align="center"> outras contas 📫 </h3>
 <br />
 <p align="center">
 <a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<a href="https://twitter.com/skaarlbabyxo1"><img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ____
