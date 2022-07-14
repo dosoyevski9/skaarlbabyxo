@@ -1,7 +1,6 @@
-h2 align="center"> Hi, I'm Piyush Bajaj 👋 <br/> </h2> 
+<h2 align="center"> Prazer, skaarlbabyxo 👋 <br/> </h2> 
 
-<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
-  
+<p align="center"> <samp>Olá, eu sou o skaarlbabyxo, e sou estudante de 
   
 ## Tech Stack :computer:
 
