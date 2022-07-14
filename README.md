@@ -1,6 +1,6 @@
 <h2 align="center"> Prazer, skaarlbabyxo 👋 <br/> </h2> 
 
-<p align="center"> <samp>Olá, eu sou o skaarlbabyxo, e sou estudante de 
+<p align="center"> <samp>Olá, eu sou o skaarlbabyxo, e estudo programação a 3 anos. Sou muito competitivo, gosto da natureza/animais. Moro no Brasil e sou aspirante a químico. :)
   
 ## Tech Stack :computer:
 
@@ -14,20 +14,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
-</td>
-
-<td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
 </td>
 
 <td align="center" width="20%">
